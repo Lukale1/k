@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: burlywood;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.img-1{
+    display: grid;
+    gap: 3.5rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+a{
+    text-decoration: none;
+}

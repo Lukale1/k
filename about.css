@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    line-height: 1.5;
+    background: burlywood;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
